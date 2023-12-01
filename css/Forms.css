@@ -1,0 +1,39 @@
+.cform{
+    width: 100px;
+}
+.cform form{
+    width: 90%;
+    padding: 2rem;
+    background-color: brown;
+    border-radius: 30px;
+}
+.cform form div{
+    margin-bottom: 1rem;
+}
+.cform form label{
+    color: blue;
+    display: block;
+}
+.cform form input[type="text"]
+.cform form input[type="email"]{
+   width: 95%; 
+}
+.cform form textarea{
+    width: 95%;
+    padding: 1rem;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
+.cform form button{
+    width: 20px;
+    padding: 2rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: blueviolet;
+    color: chocolate;
+}
+.cform form button:hover{
+    background-color: blue;
+    cursor: pointer;
+}

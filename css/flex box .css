@@ -1,0 +1,13 @@
+.box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.child{
+    background:green ;
+    margin: 15px;
+    padding: 1rem;
+    color: antiquewhite;
+    flex-basis: 25%;
+}

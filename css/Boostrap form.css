@@ -1,0 +1,34 @@
+.box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.child{
+    background-color: yellow;
+    margin: 20px;
+    padding: 1rem;
+    color: blue;
+    flex-basis: 25%;
+}
+@media(max-widht: 1400px){
+body {
+    background-color: brown;
+}
+.child{
+    background-color: blueviolet;
+}
+
+}
+@media(max-width: 1200px){
+body{
+    background-color: blue;
+}
+
+}
+@media(max-widht: 1000px){
+body{
+    background-color: darkgreen;
+}
+
+}

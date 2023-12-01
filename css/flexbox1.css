@@ -1,0 +1,14 @@
+.box-container{
+   display: flex;
+   justify-content: center;
+   flex: wrap;
+   flex-direction: row;
+
+}
+.child{
+    background: red;
+    margin: 20px;
+    padding: 2rem;
+    color: aqua;
+    flex-basis: 20%;
+}

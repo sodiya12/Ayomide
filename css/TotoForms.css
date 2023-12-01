@@ -1,0 +1,55 @@
+.cform{
+    width: 120px;
+}
+.cform form{
+    width: 90%;
+    padding: 2rem;
+    background-color: darkorange;
+    border-radius: 20px;
+}
+.cform form div{
+    margin-bottom: 2rem;
+}
+.cform form label{
+    color: darkviolet;
+    display: block;
+}
+.cform form input[type="text"]
+.cform form input[type="email"]{
+    width: 90%;
+}
+.cform form textarea{
+    width: 90%;
+    height: 50%;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+.cform form button{
+    width: 90%;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: blueviolet;
+    color: bisque;
+}
+.cform form button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.today{
+    background:red;
+    color: white;
+    /* padding: 4rem;
+    padding-top: 4rem; [applied to the top of p tag]
+    padding-bottom: 4rem; [applied to the bottom of p tag]
+    padding-left: 20rem; [ the p tag is moving from left to rigth]
+    padding-right: 20rem; [the p tag is moving form right to left]
+
+    /* margin: 5rem; */
+    /* margin-top: 5rem; [ margin applies to the top of p tag] */
+    /* margin-right: 5rem; [margin applies to the right of p the tag] */
+    /* margin-left: 5rem; [margin applies to the letf of the p tag] */
+    /* margin-bottom: 5rem; [margin applies to the bottom of the p tag] */
+}

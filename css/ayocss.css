@@ -1,0 +1,76 @@
+h1{
+    background-color: green;
+    color: white;
+}
+h2{
+    background-color: blue;
+    color: white;
+}
+h3{
+    background-color: black;
+    color: white;
+}
+h4{
+    background-color: brown;
+    color: white;
+}
+h5{
+    background-color: black;
+    color: white;
+}
+h6{
+    background-color: blueviolet;
+    color: white;
+}
+
+
+.ken{
+    background-color: red;
+    color: black;
+}
+
+#dave{
+    background-color: blue;
+    color: black;
+}
+
+.lexy{
+    background-color: black;
+    color: bisque;
+}
+#femcy{
+    background-color: aqua;
+    color: black;
+}
+.ben1{
+    background-color: chartreuse;
+    color: blue;
+}
+#ben2{
+    background-color: chocolate;
+    color: black;
+}
+.ken1{
+    background-color: black;
+    color: blanchedalmond;
+}
+#ken2{
+    background-color: chocolate;
+    color: black;
+}
+.can1{
+    background-color: blue;
+    color: black;
+}
+#can2{
+    background-color: chartreuse;
+    color: brown;
+}
+.toy1{
+    background-color: black;
+    color: blueviolet;
+}
+#toy2{
+    background-color: blue;
+    color: brown;
+}

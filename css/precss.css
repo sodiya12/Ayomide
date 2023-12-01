@@ -1,0 +1,23 @@
+table{
+    width: 100;
+    text-align: center;
+    margin-top: 2rem;
+    background-color: blueviolet;
+    border-collapse: collapse;
+}
+table th{
+    padding: 2rem;
+    background-color: blue;
+    border-collapse: collapse;
+}
+table td{
+    padding: 2rem;
+    background-color: aqua;
+    border-collapse: collapse;
+}
+table tr[even]{
+    background-color: chocolate;
+}
+table tr[odd]{
+    background-color: brown;
+}

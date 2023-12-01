@@ -1,0 +1,48 @@
+.box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.child{
+    background-color: chartreuse;
+    margin: 15px;
+    padding: 1rem;
+    color: black;
+    flex-basis: 25%;
+}
+@media(max-width: 1400px){
+body {
+    background: red;
+}
+.child{
+
+    background: brown;
+}
+}
+@media(max-widht: 1200px){
+    body {
+     background-color: blue;
+   }
+}
+@media(max-width: 992){
+    body{
+        
+        background-color: green;
+    }
+    .child{
+        background-color: silver;
+    }
+}
+@media(max-width: 769px){
+    body{
+        background-color: white;
+    }
+}
+@media(max-width: 567px){
+    body{
+        background-color: purple;
+    }
+}
+@media(max-widht: 468){}
